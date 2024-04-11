@@ -1,0 +1,32 @@
+_repo: The-mill-house-mystery_73223
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warden, Florence
+    alias: James, Florence Alice Price
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '6480'
+    url: http://www.gutenberg.org/2009/agents/6480
+    wikipedia: https://en.wikipedia.org/wiki/Florence_Warden
+description: ''
+gutenberg_issued: '2024-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73223'
+language: en
+pgterms:marc904: https://searchworks.stanford.edu/view/12726845
+pgterms:marc905: 20240318115956warden
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: an anonymous Project Gutenberg volunteer
+publication_note: '  $aLondon :$bJarrold & Sons, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: The mill house mystery
+url: http://www.gutenberg.org/ebooks/73223
